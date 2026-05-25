@@ -231,23 +231,6 @@
         ],
         "displayName": "nivel2"
     },
-    "nivel1": {
-        "id": "nivel1",
-        "mimeType": "application/mkcd-tilemap",
-        "data": "MTAxMDAwMTAwMDAyMDIwMjA1MDEwMTA0MDIwNDAxMDEwMTAxMDIwMTAxMDQwMTA2MDEwMTAxMDYwMTAxMDEwMTAxMDEwMTAxMDEwNTAxMDEwMTAxMDEwNTA0MDEwMTAxMDIwMTAxMDEwMTA0MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTA0MDEwMTAxMDIwMTAxMDEwNTAxMDEwMjA0MDEwMTAxMDIwMTAyMDMwNTA1MDEwMTAyMDYwNDA1MDIwMTAxMDEwNTAxMDEwNDAxMDEwMTAxMDEwMTAxMDEwMjAyMDIwNjA0MDYwMTAxMDQwNTAxMDIwMTAxMDEwMTAxMDEwMTA1MDEwNTA2MDEwMTA0MDEwMTAxMDEwMTAxMDEwMTAxMDQwMTAxMDEwMTAxMDEwMTAxMDEwMTA0MDEwMTAyMDEwNjA1MDEwNDA2MDEwMTAxMDEwMjAxMDQwNDAxMDEwNjA0MDEwMTAxMDEwMTA0MDEwMTAxMDEwNDA0MDEwNDA0MDQwNDA1MDUwMTAxMDIwMTAxMDEwMTA0MDQwNDA0MDEwMTAyMDEwMTAxMDEwNDA1MDQwMTAxMDQwNzAxMDEwMTAxMDEwMTA2MDQwMTA0MDUwNjA2MDUwNDA1MDIwNTA1MDQwNDA1MDIwODAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMjIyMjAwMjIwMjAwMjAwMDAyMDIwMDAyMDAwMDAwMDAwMjAwMDAyMjAwMjAwMDAwMDIwMDAwMDAwMDAwMDIwMDAyMDAwMjIwMDIwMDAyMDIyMjAwMjIyMjAyMDAwMjIwMDAwMDAwMDAyMjIyMjIwMDIyMjAwMDAwMDAyMDIwMDIyMDAwMDAwMDAwMjAwMDAwMDAwMDAwMDIyMDIwMDIyMjAwMDAwMjIyMDAyMjAwMDAyMDAwMDAyMjIwMjIyMjAyMjAwMDAwMjIyMjAwMDIwMDIwMjIwMDAyMDAwMDAwMjIyMDIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMDAwMA==",
-        "tileset": [
-            "myTiles.transparency16",
-            "sprites.castle.tileGrass2",
-            "sprites.builtin.forestTiles0",
-            "sprites.dungeon.collectibleInsignia",
-            "sprites.castle.rock1",
-            "sprites.castle.saplingOak",
-            "sprites.castle.saplingPine",
-            "myTiles.tile1",
-            "myTiles.tile3"
-        ],
-        "displayName": "nivel1"
-    },
     "nivel7": {
         "id": "nivel7",
         "mimeType": "application/mkcd-tilemap",
@@ -302,6 +285,23 @@
             "myTiles.tile28"
         ],
         "displayName": "nivel0"
+    },
+    "nivel1": {
+        "id": "nivel1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjA1MDEwMTA0MDIwNDAxMDEwMTAxMDIwMTAxMDQwMTA2MDEwMTAxMDYwMTAxMDEwMTAxMDEwMTAxMDEwNTAxMDEwMTAxMDEwNTA0MDIwMTAxMDIwMTAxMDEwMTA0MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTA0MDEwMTAxMDIwMTAxMDEwNTAxMDEwMjA0MDEwMTAxMDIwMTAyMDEwNTA1MDEwMTAyMDYwMjA1MDIwMTAxMDEwNTAxMDEwNDAxMDEwMTAxMDEwMTAxMDEwMjAyMDIwNjA0MDYwMTAxMDQwNTAxMDIwMTAxMDEwMTAxMDEwMTA1MDEwNTA2MDEwMTA0MDIwMTAxMDEwMTAxMDEwMTAxMDQwMTAxMDEwMTAxMDEwMjAxMDEwMTA0MDEwMTAyMDEwNjA1MDEwNDA2MDEwMTAxMDEwMjAxMDQwNDAxMDMwNjA0MDEwMTAxMDEwMTA0MDEwMTAxMDEwNDA0MDEwNDA0MDQwNDA1MDUwMTAxMDIwMTAxMDEwMTA0MDQwNDA0MDEwMTAyMDEwMTAxMDEwNDA1MDQwMTAxMDQwNzAxMDEwMTAxMDEwMTA2MDQwMTA0MDUwNjA2MDUwNDA1MDIwNTA1MDQwNDA1MDIwODAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMjIyMjAwMjIwMjAwMjAwMDAyMDIwMDAyMDAwMDAwMDAwMjAwMDAyMjAyMjAwMDAwMDIwMDAwMDAwMDAwMDIwMDAyMDAwMjIwMDIwMDAyMDIyMjAwMjIyMjAyMDAwMjIwMDAwMDAwMDAyMjIyMjIwMDIyMjAwMDAwMDAyMDIwMDIyMDAyMDAwMDAwMjAwMDAwMDAwMjAwMDIyMDIwMDIyMjAwMDAwMjIyMDAyMjAwMDAyMDAwMDAyMjIwMjIyMjAyMjAwMDAwMjIyMjAwMDIwMDIwMjIwMDAyMDAwMDAwMjIyMDIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tileGrass2",
+            "sprites.builtin.forestTiles0",
+            "sprites.dungeon.collectibleInsignia",
+            "sprites.castle.rock1",
+            "sprites.castle.saplingOak",
+            "sprites.castle.saplingPine",
+            "myTiles.tile1",
+            "myTiles.tile3"
+        ],
+        "displayName": "nivel1"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
