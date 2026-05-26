@@ -1115,7 +1115,7 @@ scene.onOverlapTile(SpriteKind.Player, sprites.builtin.coral4, function (sprite,
 sprites.onOverlap(SpriteKind.Player, SpriteKind.abuelo, function (sprite, otherSprite) {
     if (mensajeabuelo == 0) {
         if (IADerrotada == 1) {
-            game.showLongText("Gracias por todo", DialogLayout.Top)
+            game.showLongText("Gracias por todo, ahora toda la sabiduria podra pasar de generación en generación.", DialogLayout.Top)
             game.gameOver(true)
         }
         if (IADerrotada == 0) {
